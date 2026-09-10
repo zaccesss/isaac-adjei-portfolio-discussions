@@ -5,9 +5,9 @@
 This repository exists solely to host discussion threads for blog posts at [isaacadjei.me](https://isaacadjei.me). When participating, please:
 
 - Be respectful and constructive
-- Stay on topic — comments should relate to the post being discussed
-- No spam, self-promotion, or off-topic links
-- No harassment, hate speech, or personal attacks
+- Stay on topic - comments should relate to the post being discussed
+- No spam, self-promotion or off-topic links
+- No harassment, hate speech or personal attacks
 
 ## Enforcement
 
