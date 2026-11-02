@@ -4,4 +4,4 @@ This repository contains no code. Security issues should be reported against the
 
 See the full security policy at: https://isaacadjei.me/security-policy
 
-To report a vulnerability, contact: **contact@isaacadjei.me**
+To report a vulnerability, contact: **security@isaacadjei.me**
