@@ -1,5 +1,7 @@
 # isaac-adjei-portfolio-discussions
 
+[![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--ND%204.0-green.svg)](LICENSE)
+
 This repository hosts GitHub Discussions for blog posts and writing at [isaacadjei.me](https://isaacadjei.me).
 
 Each blog post automatically gets a discussion thread when the first comment is posted (powered by [giscus](https://giscus.app)). Sign in with GitHub to comment or react.
